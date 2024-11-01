@@ -6,8 +6,9 @@ Hi! I'm a **14-year-old developer** with a passion for coding and learning new t
 - **HTML / CSS**
 - **JavaScript**
 
-## Current Project
-I'm currently working on a project to create a **Realm Nuking Discord Bot** which you can use/view at discord.gg/mcbr. This project has been a great learning experience, and I’m excited to see how it progresses!
+## Current Job State
+I'm currently working off commision for python projects and also have a business in website development
+for big companies. (https://expiring.lol)
 
 ## Contact
 You can reach me on discord @rratelimit for collaboration or questions!
