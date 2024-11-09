@@ -23,4 +23,4 @@
 
 ## 📫 Discord
 
-[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-drex-blue?style=for-the-badge&logo=discord)](https://discord.gg/expiring)
+[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-expiring-blue?style=for-the-badge&logo=discord)](https://discord.gg/expiring)
