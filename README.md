@@ -1,14 +1,26 @@
-## About Me
-Hi! I'm a **14-year-old developer** with a passion for coding and learning new technologies. I’m always looking to improve my skills and work on interesting projects.
+# raks.
 
-## Skills
-- **Python**
-- **HTML / CSS**
-- **JavaScript**
+![Profile Views](https://komarev.com/ghpvc/?username=raksinc&color=blueviolet)
 
-## Current Job State
-I'm currently working off commision for python projects and also have a business in website development
-for big companies. (https://expiring.lol)
 
-## Contact
-You can reach me on discord @rratelimit for collaboration or questions!
+
+---
+
+## 🔧 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![c++](https://img.shields.io/badge/-cpp-3776AB?logo=c++&logoColor=white&style=flat)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raksinc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raksinc&layout=compact&theme=radical)
+
+## 🧩 What I'm Learning
+- **Backend development and GoLang**
+
+---
+
+## 📫 Discord
+
+[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-drex-blue?style=for-the-badge&logo=discord)](https://discord.gg/expiring)
